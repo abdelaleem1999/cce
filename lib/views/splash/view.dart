@@ -15,7 +15,7 @@ class _SplashViewState extends State<SplashView> {
       Navigator.pushReplacement(
           context,
           //git remote -v     git remote add origin https://github.com/abdelaleem1999/cce.git git branch -M main
-          //git push -u origin main
+          //git push -u origin main git add .    push -u origin main
           MaterialPageRoute(
             builder: (context) => HomeView0(),
           ));
